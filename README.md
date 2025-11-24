@@ -4,7 +4,7 @@
 <!--         HEADER SECTION        -->
 <!-- ============================ -->
 <h1 style="color:#ff9aa2;">✨ HELLO, I'm WA ✨</h1>
-<h3 style="color:#ffb7b2;">👩‍💻 Computer Science Student / Junior Web App Developer 👨‍💻</h3>
+<h3 style="color:#ffb7b2;">👩‍💻 Computer Science Student / Junior Web App Developer </h3>
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cute cat gif"/>
 

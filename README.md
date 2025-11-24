@@ -55,9 +55,8 @@
 
 ---
 
-<!-- ============================ -->
-<!--         FOOTER SECTION        -->
-<!-- ============================ -->
+
+
 <p align="center">
 🐾  
 <em>“Keep learning, keep building, and never stop being curious.”</em>  

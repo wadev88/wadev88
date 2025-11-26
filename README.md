@@ -1,8 +1,6 @@
 <div align="center" style="background: linear-gradient(180deg, #FFF9FB, #FFE9F0, #E3FDFD); padding: 30px; border-radius: 20px;">
 
-<!-- ============================ -->
-<!--         HEADER SECTION        -->
-<!-- ============================ -->
+
 <h1 style="color:#ff9aa2;">✨ HELLO, I'm WA ✨</h1>
 <h3 style="color:#ffb7b2;">👩‍💻 Computer Science Student / Junior Web App Developer </h3>
 
